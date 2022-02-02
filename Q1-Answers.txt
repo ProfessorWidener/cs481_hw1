@@ -1,0 +1,5 @@
+    Are you guaranteed that the child() method will run before the parent() method?  Explain your answer.
+    
+    Have both the child and parent processes print the value of the variable 'counter' after all counter computations have completed.  Are the values the same, or different?  Explain why this happens.
+    
+    Have both the child and parent processes print the value of the variable 'counter' after all counter computations have completed.  Explain how the addresses can be the same when the values of counter are different.
